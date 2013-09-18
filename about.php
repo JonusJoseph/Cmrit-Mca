@@ -128,13 +128,6 @@ Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
                         <img src="images/sudipto.jpg" alt="">
                         Mr. Sudipto Das</a>
                     </li>
-					<!--
-					<li>
-					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="bharti">
-                        <img src="images/bharti.jpg" alt="">
-                        Ms. Bharti Chaubey</a>
-                    </li>
-					-->
                     <li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="nithya">
                         <img src="images/nithya.jpg" alt="">
@@ -166,16 +159,39 @@ Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
                         <img src="images/neha.jpg" alt="">
                         Ms. Neha Agrawal</a>
                     </li>
-					<!--
 					<li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="arshdeep">
                         <img src="images/arshdeep.jpg" alt="">
                         Ms. Arshdeep Kaur</a>
                     </li>
-					-->
 					<li>
 					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="pratima">
                         <img src="images/pratima.jpg" alt="">
+                        Ms.Pratima V.Patil</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="sathish">
+                        <img src="images/sathish.jpg" alt="">
+                        Ms.Pratima V.Patil</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="shweta">
+                        <img src="images/shweta.jpg" alt="">
+                        Ms.Pratima V.Patil</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="uma">
+                        <img src="images/uma.jpg" alt="">
+                        Ms.Pratima V.Patil</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="jyoti">
+                        <img src="images/jyoti.jpg" alt="">
+                        Ms.Pratima V.Patil</a>
+                    </li>
+					<li>
+					<a href="#myModal" data-toggle="modal" class="staff-img" data-event="vikash">
+                        <img src="images/vikash.jpg" alt="">
                         Ms.Pratima V.Patil</a>
                     </li>
 					<li>
@@ -322,10 +338,22 @@ case "nagendra" :
 $(".modal-body").html('<div class="span2 pull-right"><img src="images/nagendra.jpg" alt=""></div><p><strong>Name : </strong>NAGENDRA. N</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>ASSISTANT PROFESSOR</p><p><strong>Education Qualification : </strong>MCA.,(M.Phil – Comp.Sc.,)</p><p><strong>Experience	: </strong>19 YEARS</p><p><strong>Subjects Taught	: </strong>S/W. ENGG., S/W. ARCH., S/W.PROJ.MGT., DBMS, DISTRIBUTED COMPUTING SYSTEMS, SYSTEM SIMULATION & MODELING, COBOL &ORACLE INCLUDING S/w. Projects, Progg., Lab GUIDANCE, Technical Seminar Guidance.</p><p><strong>Research Interest : </strong>S/W. ENGINEERING</p><p><strong>Conferences / Seminars / Workshops Attended : </strong><ul><li>SAP R/3 – ABAP/4 & Materials Mgt.,(MM) Module.</li><li>ORACLE APPLICATIONS(FINANCIALS) Ver. 10.7 SC & 11.0.</li><li>ORACLE APPLICATIONS DBA.</li><li>EOPLESOFT-  HR Module & PEOPLETOOLS ver 7.5. </li><li>CODA FINANCIALS (An ERP Package from CINCOM Inc., USA)</li><li>CONTROL-OPEN MFG., (An ERP Package from CINCOM Inc., USA)</li><li>SOFTSKILL (Interactive Skills & Communication).</li></ul></p><p><strong>Papers Published	: </strong>National: 05 International:05</p><p><strong>SkillSets	: </strong>COBOL, ORACLE. ABAP/4, MANTIS,HTML/XML.</p><p><strong>Trainings Attended : </strong><ul><li>Inter-National conference on Digital Information management, organized jointly by Digital Information Reasearch Foundation, Chennai & Christ College, Bangalore,during Dec-2006.</li><li>National conference on Emerging trends in InformationTechnology (at Christ University during Mar-2010).</li><li>ORACLE APPLICATIONS DBA.</li><li>National conference on Emerging trends in Information Technology (at Christ University during Feb-2011). </li><li>In-house seminar(given by visiting expert) On Total Quality Management System at Christ University, Bangalore during 2005.</li><li>CONTROL-OPEN MFG., (An ERP Package from CINCOM Inc., USA)</li><li>National seminar On Quality Assurance & control in Higher education.(Conducted by QAI Of India, in Bangalore during 2006).</li><li>AttendedOne day workshop on“THINKING PARADIGMS IN EDUCATION” organized by Christ University, during Sep-2008.</li></ul></p>');
 break;
 case "sudipto" :
-$(".modal-body").html('<div class="span2 pull-right"><img src="images/sudipto.jpg" alt=""></div><p><strong>Name : </strong>Mr. SUDIPTO DAS</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>ASSISTANT PROFESSOR</p><p><strong>Education Qualification : </strong>MCA</p><p><strong>Experience	: </strong>10 YEARS</p><p><strong>Subjects Taught	: </strong>Systems Software, Unix System Programming, Mobile Computing, Professional Communication & Ethics, Operations Research, Simulation</p><p><strong>Research Interest : </strong>E-Learning in Rural Areas</p><p><strong>Training Programme : </strong><ul><li>E Learning For Mobile Users Using 4G</li><li>Use of 4G Technology to enable e-learning in mobile devices</li><li>Trainings Conducted<ul><li>Life Skills Training for students of BE, MBA and MCA at   CMRIT during Sep-Oct 2010Soft Skills Training for students of BE at CMRIT in April 2008</li></ul></li><li>Trainings Attended<ul><li>QIP for Faculty Development at CMRIT,Bangalore</li><li>e.	Soft Skill Training From Infosys, Bangalore </li><li>Oracle DBA Training from Oracle, Bangalore</li><li>Deep dive FEP Training from Infosys, Bangalore </li><li>IBM RAD Training from IBM, Bangalore</li><li>ICT innovation and Development, BMA, Bangalore</li><li>Life Skills Training from CMRLSI, Bangalore </li></ul></li></ul></p><p><strong>Papers Published	: </strong>National: 05 International:05</p><p><strong>SkillSets	: </strong>COBOL, ORACLE. ABAP/4, MANTIS,HTML/XML.</p><p><strong>Trainings Attended : </strong><ul><li>Inter-National conference on Digital Information management, organized jointly by Digital Information Reasearch Foundation, Chennai & Christ College, Bangalore,during Dec-2006.</li><li>National conference on Emerging trends in InformationTechnology (at Christ University during Mar-2010).</li><li>ORACLE APPLICATIONS DBA.</li><li>National conference on Emerging trends in Information Technology (at Christ University during Feb-2011). </li><li>In-house seminar(given by visiting expert) On Total Quality Management System at Christ University, Bangalore during 2005.</li><li>CONTROL-OPEN MFG., (An ERP Package from CINCOM Inc., USA)</li><li>National seminar On Quality Assurance & control in Higher education.(Conducted by QAI Of India, in Bangalore during 2006).</li><li>AttendedOne day workshop on“THINKING PARADIGMS IN EDUCATION” organized by Christ University, during Sep-2008.</li></ul></p>');
+$(".modal-body").html('<div class="span2 pull-right"><img src="images/sudipto.jpg" alt=""></div><p><strong>Name : </strong>MR. SUDIPTO DAS</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>ASSISTANT PROFESSOR</p><p><strong>Education Qualification : </strong>MCA</p><p><strong>Experience	: </strong>10 YEARS</p><p><strong>Subjects Taught	: </strong>Systems Software, Unix System Programming, Mobile Computing, Professional Communication & Ethics, Operations Research, Simulation</p><p><strong>Research Interest : </strong>E-Learning in Rural Areas</p><p><strong>Training Programme : </strong><ul><li>E Learning For Mobile Users Using 4G</li><li>Use of 4G Technology to enable e-learning in mobile devices</li><li>Trainings Conducted<ul><li>Life Skills Training for students of BE, MBA and MCA at   CMRIT during Sep-Oct 2010Soft Skills Training for students of BE at CMRIT in April 2008</li></ul></li><li>Trainings Attended<ul><li>QIP for Faculty Development at CMRIT,Bangalore</li><li>e.	Soft Skill Training From Infosys, Bangalore </li><li>Oracle DBA Training from Oracle, Bangalore</li><li>Deep dive FEP Training from Infosys, Bangalore </li><li>IBM RAD Training from IBM, Bangalore</li><li>ICT innovation and Development, BMA, Bangalore</li><li>Life Skills Training from CMRLSI, Bangalore </li></ul></li></ul></p><p><strong>Papers Published	: </strong>National: 05 International:05</p><p><strong>SkillSets	: </strong>COBOL, ORACLE. ABAP/4, MANTIS,HTML/XML.</p><p><strong>Trainings Attended : </strong><ul><li>Inter-National conference on Digital Information management, organized jointly by Digital Information Reasearch Foundation, Chennai & Christ College, Bangalore,during Dec-2006.</li><li>National conference on Emerging trends in InformationTechnology (at Christ University during Mar-2010).</li><li>ORACLE APPLICATIONS DBA.</li><li>National conference on Emerging trends in Information Technology (at Christ University during Feb-2011). </li><li>In-house seminar(given by visiting expert) On Total Quality Management System at Christ University, Bangalore during 2005.</li><li>CONTROL-OPEN MFG., (An ERP Package from CINCOM Inc., USA)</li><li>National seminar On Quality Assurance & control in Higher education.(Conducted by QAI Of India, in Bangalore during 2006).</li><li>AttendedOne day workshop on“THINKING PARADIGMS IN EDUCATION” organized by Christ University, during Sep-2008.</li></ul></p>');
 break;
-case "bharti" :
-$(".modal-body").html('<div class="span2 pull-right"><img src="images/bharti.jpg" alt=""></div><p><strong>Name : </strong>MS. BHARTI CHAUBEY</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>LECTURER</p><p><strong>Education Qualification : </strong>MCA</p><p><strong>Experience	: </strong>10 YEARS</p><p><strong>Subjects Taught	: </strong>DS,C,C+,CO,JAVAMOOMD,UNIX,WP,MIS, CGC-PERL,DBMS </p><p><strong>Research Interest : </strong>Garbage Collection in java.</p><p><strong>Training Programme : </strong><ul><li>Soft Skills Program at Infosys</li><li>Rational Software Architect at CMRIT,Bangalore </li><li>JAVA/J2EE FDP at CMRIT, Bangalore </li><li>IBM Community Edition FDP at CMRIT,Bangalore </li><li>IBM DB2 workshop at CMRIT</li></ul></p><p><strong>SkillSets	: </strong>JAVA /J2EE</p><p><strong>Achivements	: </strong><ul><li>DB2 certification from IBM</li><li>Tivoli certification from IBM </li><li>Lotus certification from IBM </li><li>ILTES Certification from International Organization </li></ul></p>');
+case "sathish" :
+$(".modal-body").html('<div class="span2 pull-right"><img src="images/sathish.jpg" alt=""></div><p><strong>Name : </strong>MR. P.SATHISH</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>SR. LECTURER</p><p><strong>Education Qualification : </strong>MCA, M.Phil</p><p><strong>Experience	: </strong>4 YEARS</p><p><strong>Subjects Taught	: </strong>Computer Networks, Web Programming, Computer Organization, Mobile Computing, OOPs</p><p><strong>Research Interest : </strong>Neural Networks</p><p><strong>Training Programme : </strong><ul><li>Certificate in .Net Programming by ICT Academy of TamilNadu</li></ul></p><p><strong>SkillSets	: </strong>Networking, Web Applications</p><p><strong>Achivements	: </strong><ul><li>Cisco(CCNA) Certified Instructor</li></ul></p>');
+break;
+case "shweta" :
+$(".modal-body").html('<div class="span2 pull-right"><img src="images/shweta.jpg" alt=""></div><p><strong>Name : </strong>MS. SHWETA SINGHAI</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>LECTURER</p><p><strong>Education Qualification : </strong>MCA, M.Phil</p><p><strong>Experience	: </strong>6 YEARS</p><p><strong>Subjects Taught	: </strong>C, C++, Java & Advanced Java, DBMS, Data Structures, UNIX, Software Practice & Testing, ISD</p><p><strong>Research Interest : </strong>Software Engineering & Testing</p><p><strong>Training Programme : </strong><ul><li>SOA IBM </li></ul></p><p><strong>SkillSets	: </strong>Java Programming , Shell Scripting.</p><p><strong>Achivements	: </strong>Paper Publication in National Conferences<ul><li>Opportunistic Reuse of Software Components</li><li>Virus Detection though Anomaly based Detection</li></ul></p>');
+break;
+case "vikash" :
+$(".modal-body").html('<div class="span2 pull-right"><img src="images/vikash.jpg" alt=""></div><p><strong>Name : </strong>MS. VIKASH KUMAR</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>SR. LECTURER</p><p><strong>Education Qualification : </strong>MCA</p><p><strong>Experience	: </strong>3.5 YEARS</p><p><strong>Subjects Taught	: </strong>.Net, Core Java , Advanced Java, UNIX, Computer Organization, Operating System, COBOL</p><p><strong>Research Interest : </strong>Digital Image Processing, Increase Processing Efficiency of System. </p><p><p><strong>SkillSets	: </strong>Android Application development, Java Programming</p><p><strong>Achivements	: </strong><ul><li>Presented and Published two Papers in National Conferences.</li></ul></p>');
+break;
+case "jyoti" :
+$(".modal-body").html('<div class="span2 pull-right"><img src="images/jyoti.jpg" alt=""></div><p><strong>Name : </strong>MS. JYOTI GOEL</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>SR. LECTURER</p><p><strong>Education Qualification : </strong>MCA, M.Tech(IT)</p><p><strong>Experience	: </strong>5 YEARS</p><p><strong>Subjects Taught	: </strong>C, System Software, Networks, Unix and Shell Programming, Operating System, COBOL, Software Engineering.</p><p><strong>Research Interest : </strong>Operating System, Networks</p><p><strong>Training Programme : </strong><ul><li>CCNA, CCNP, CCIE</li></ul></p><p><strong>SkillSets	: </strong>C, Visual Basic</p>');
+break;
+case "uma" :
+$(".modal-body").html('<div class="span2 pull-right"><img src="images/uma.jpg" alt=""></div><p><strong>Name : </strong>MS. UMA B</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>LECTURER</p><p><strong>Education Qualification : </strong>MCA</p><p><strong>Experience	: </strong>4 YEARS</p><p><strong>Subjects Taught	: </strong>C, C++, Data Structures, Web Technologies, Operating System</p><p><strong>Research Interest : </strong>Web Application Development</p><p><strong>SkillSets	: </strong>Web Development  in PHP MySQL<p></p>');
 break;
 case "nithya" :
 $(".modal-body").html('<div class="span2 pull-right"><img src="images/nithya.jpg" alt=""></div><p><strong>Name : </strong>MS. B. NITHYA RAMESH</p><p><strong>Department : </strong>Post Graduate Studies (MCA)</p><p><strong>Designation : </strong>LECTURER</p><p><strong>Education Qualification : </strong>MCA, MPhil</p><p><strong>Experience	: </strong>8.5 YEARS</p><p><strong>Subjects Taught	: </strong>SS,OS,UNIX,C,C++,JAVA,CO,SE,DS,DM, ADA</p><p><strong>Research Interest : </strong>Efficiency of Algorithms </p><p><strong>Training Programme : </strong><ul><li>Web Application Development at CMRIT </li><li>Java / J2EE FDP at CMRIT</li></ul></p><p><strong>SkillSets	: </strong>C++, Java, Data Structures, ADA</p><p><strong>Achivements	: </strong><ul><li>DB2Certification from IBM </li><li>RSA Certification from IBM </li></ul></p>');
