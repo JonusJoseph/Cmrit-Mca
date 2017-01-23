@@ -124,7 +124,7 @@ Department Of <span style="color:#a6b032;"> MCA</span>
  <tr><td>39</td><td>Chetan K J</td><td>Software Engineer at HP</td></tr>
  <tr><td>40</td><td>Divya S</td><td>Software Engineer at HP</td></tr>
  <tr><td>41</td><td>Naresh Kumar P</td><td>Software Engineer at HP</td></tr>
- <tr><td>42</td><td>jonus joseph</td><td>Software Engineer at ELEVATE</td></tr>
+ <tr><td>42</td><td>jonus joseph</td><td>Senior Security Analyst at IBM</td></tr>
  <tr><td>43</td><td>Shivaraj RH</td><td>Senior PHP Developer at Permeative Technologies Pvt Ltd</td></tr>
  <tr><td>44</td><td>Abhishek kumar</td><td>SAP CRM Technical Associate Consultant at Maventec</td></tr>
  <tr><td>45</td><td>Sumith Kumar</td><td>SAP CRM Technical Associate Consultant at Maventec</td></tr>
